@@ -1,4 +1,4 @@
-# CoffeShets
+# CoffeShifts
 
 A simple local shift manager, in SWIFT using VIPER as a design pattern
 
