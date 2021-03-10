@@ -21,3 +21,5 @@ Please make sure to update tests as appropriate.
 - Sort Storage
 - Add Service Implementation
 - Improve code guidelines
+- Move data request on the List to interactor
+- Apply full VIPER architecture inside custom views.
